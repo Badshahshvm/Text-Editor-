@@ -1,0 +1,1 @@
+A basic text editor implemented in Java using Swing. This project provides a minimalist notepad-style application with features like opening, saving, and editing text files. It's a great starting point for Java Swing GUI applications and can be expanded for more advanced functionalities.
